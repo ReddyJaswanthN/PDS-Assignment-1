@@ -1,0 +1,1 @@
+Distribution of Average Scores (Histogram) visualization makes it easier to analyze the overall distribution of student performance, identifying trends such as whether most students score in a specific range  or if there are outliers (very low or high scores).
